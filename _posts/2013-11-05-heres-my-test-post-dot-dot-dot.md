@@ -1,5 +1,5 @@
 ---
-title: Here's my test post...
+title: Three lines are not enough
 layout: post
 published: false
 ---
