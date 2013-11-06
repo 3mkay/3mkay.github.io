@@ -1,7 +1,7 @@
 ---
 title: Specification jousting
 layout: post
-published: true
+published: false
 categories: Waterfail
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
