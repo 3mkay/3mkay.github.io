@@ -2,7 +2,7 @@
 title: Specification jousting
 layout: post
 published: true
-categories: waterfail
+categories: Waterfail, cat2
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
 
