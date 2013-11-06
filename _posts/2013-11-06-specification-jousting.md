@@ -1,7 +1,7 @@
 ---
 title: Specification jousting
 layout: post
-published: false
+published: true
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
 
