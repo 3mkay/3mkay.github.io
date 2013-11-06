@@ -1,7 +1,7 @@
 ---
 title: Here's my test post...
 layout: post
-published: true
+published: false
 ---
 The post you see before you is a test. It's really great, isn't it?
 
