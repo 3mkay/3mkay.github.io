@@ -1,6 +1,6 @@
 ---
 title: Holding pattern
 layout: post
-published: false
+published: true
 ---
 Nothing to see here... yet
