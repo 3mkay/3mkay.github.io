@@ -6,6 +6,7 @@ categories: '["Waterfail", "Thesaurus"]'
 excerpt: '> The lively interplay of differing opinions based on a previously signed-off
   and mutually agreed document'
 permalink: thesaurus/specification-jousting
+comments: true
 share: true
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
