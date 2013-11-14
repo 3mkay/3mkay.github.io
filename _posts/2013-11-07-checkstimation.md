@@ -3,7 +3,7 @@ title: Checkstimation
 layout: post
 published: true
 excerpt: '> The activity of estimating a task by breaking it into a checklist'
-tags: estimation, thesaurus
+tags: Estimation, Thesaurus
 permalink: thesaurus/checkstimation
 share: true
 comments: true
