@@ -4,5 +4,6 @@ layout: post
 published: true
 permalink: /thesaurus/continuum-of-done
 share: true
+comment: true
 ---
  - Don't deliver a car with no wheels how about a bike in the first instance?
