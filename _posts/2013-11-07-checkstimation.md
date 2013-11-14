@@ -8,4 +8,4 @@ permalink: thesaurus/checkstimation
 share: true
 comments: true
 ---
-> The activity of estimating a task by breaking it into a checklist, gives the added benefit of actually being a checklist for when you complete the task.
+> The activity of estimating a task by breaking it into a checklist of smaller, more estimable sizes. Gives the added benefit of actually being a handy checklist when you complete the task.
