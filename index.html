@@ -4,9 +4,9 @@ title: Latest Posts
 description: "Describe this nonsense."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
 image:
-  feature: abstract-1.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: back-001.jpg
+  credit: emkay
+  creditlink: http://www.flickr.com/photos/emkay
 ---
 
 {% for post in paginator.posts %}
@@ -20,7 +20,11 @@ image:
     {% endif %}
   </header>
   <div class="entry-content" itemprop="description">
-    {{ post.content }}
+    {% if post.excerpt != '' %}
+      {{ post.excerpt | markdownify }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
