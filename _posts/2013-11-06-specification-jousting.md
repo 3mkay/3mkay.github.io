@@ -2,7 +2,7 @@
 title: Specification jousting
 layout: post
 published: true
-categories: Waterfail
+categories: Waterfail, Thesaurus
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
 
