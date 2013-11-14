@@ -11,7 +11,7 @@ owner:
   bio:            "Here's my bio. It shouldn't be super long but a good two sentences or two should suffice."
   email:          mike@gir.pm
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        https://twitter.com/emkay
   facebook:       
   github:         
   stackexchange:  
