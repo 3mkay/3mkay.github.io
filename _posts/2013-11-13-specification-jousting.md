@@ -10,7 +10,7 @@ excerpt: '> The lively interplay of differing opinions based on a previously sig
 permalink: thesaurus/specification-jousting
 comments: true
 share: true
-tags: Waterfail Thesaurus
+tags: Fixed-price Thesaurus
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
 
