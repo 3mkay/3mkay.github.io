@@ -6,5 +6,5 @@ permalink: /thesaurus/continuum-of-done
 share: true
 comment: true
 ---
-> The line along which the definition of 'just enough' is plotted. 
+> The line along which definitions of 'just enough' are plotted. 
 e.g. How much 'polish' is required for this particular 'feature' and what is acceptable for getting it out of the door.
