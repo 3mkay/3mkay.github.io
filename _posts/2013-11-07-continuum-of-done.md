@@ -3,5 +3,6 @@ title: Continuum of done
 layout: post
 published: true
 permalink: /thesaurus/continuum-of-done
+share: true
 ---
  - Don't deliver a car with no wheels how about a bike in the first instance?
