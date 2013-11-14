@@ -2,7 +2,7 @@ title:            emkay.net
 description:      Ramblings of a Project Manager.
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://emkay.net
+#url:              http://emkay.net
 
 # Owner/author information
 owner:
