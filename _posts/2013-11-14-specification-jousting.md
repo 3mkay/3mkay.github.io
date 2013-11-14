@@ -1,9 +1,10 @@
 ---
-title:      Specification jousting
-layout:     post
-published:  true
-categories: [Waterfail, Thesaurus]
-excerpt:    "> The lively interplay of differing opinions based on a previously signed-off and mutually agreed document"
+title: Specification jousting
+layout: post
+published: true
+categories: '["Waterfail", "Thesaurus"]'
+excerpt: '> The lively interplay of differing opinions based on a previously signed-off
+  and mutually agreed document'
 permalink: thesaurus/specification-jousting
 ---
 > The lively interplay of differing opinions based on a previously signed-off and mutually agreed document
