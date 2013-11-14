@@ -1,12 +1,12 @@
 ---
 title: Design is dead, long live design!
 layout: post
-published: false
+published: true
 ---
 ## Design is dead!
 In an agile world, one of the most difficult things to get 'agile' is the design process, there seems to be a general fear of agile encroaching into domains outside of the traditional developer roles.
 
-In my experience, leaving design as an up-front, once-only task causes waterfall-like symptoms of re-work, change requests, [Specification jousting](/specification-jousting) and the knock-on effect of, like a spy in the ranks, eroding confidence of the process from within. 
+In my experience, leaving design as an up-front, once-only task causes waterfall-like symptoms of re-work, change requests, [Specification jousting](/thesaurus/specification-jousting) and the knock-on effect of, like a spy in the ranks, eroding confidence of the process from within. 
 
 It also puts too much emphasis on the design skills of the developers when they have to implement changes and reinterpret design themes as the backlog of requirements morph, wither and bubble to the surface. Although some developers will relish the opportunity to knock designs about, many others are not designers for a very good reason! 
 
