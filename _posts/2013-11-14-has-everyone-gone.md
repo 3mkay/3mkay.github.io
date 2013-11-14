@@ -1,7 +1,7 @@
 ---
 title: Has everyone gone?
 layout: post
-published: false
+published: true
 permalink: thesaurus/everyone-gone
 share: true
 comment: true
