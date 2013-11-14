@@ -7,4 +7,4 @@ share: true
 comment: true
 tags: stand-up
 ---
-> The question asked by attendees to a stand-up meeting who have either lost the will to be there or were thinking about other things whilst others were talking
+> The question asked by attendees to a stand-up meeting who have either lost the will to be there or whose minds wandered whilst others were talking
