@@ -20,7 +20,7 @@ image:
     {% endif %}
   </header>
   <div class="entry-content" itemprop="description">
-    {% if post.excerpt != '' %}
+    {% if post.excerpt %}
       {{ post.excerpt | markdownify }}
     {% else %}
       {{ post.content }}
