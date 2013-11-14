@@ -2,6 +2,8 @@
 title: Checkstimation
 layout: post
 published: false
+excerpt: '> The activity of estimating a task by breaking it into a checklist'
+tags: '[estimation, thesaurus]'
+permalink: thesaurus/checkstimation
 ---
-- How long would it take you to climb  a mountain? 
-- don't try to estimate the whole mountain, just like stories, break everything down until it's small enough to use experience to guesstimate 
+> The activity of estimating a task by breaking it into a checklist, gives the added benefit of actually being a checklist for when you complete the task.
