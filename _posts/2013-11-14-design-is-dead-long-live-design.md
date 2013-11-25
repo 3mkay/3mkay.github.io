@@ -1,7 +1,7 @@
 ---
 title: Design is dead, long live design!
 layout: post
-published: true
+published: false
 permalink: articles/design-is-dead
 excerpt: In an agile world, one of the most difficult things to get 'agile' is the
   design process, there seems to be a general fear of agile encroaching into domains

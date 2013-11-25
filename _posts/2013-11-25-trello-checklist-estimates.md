@@ -1,7 +1,7 @@
 ---
 title: Trello Checklist Estimate Totals
 layout: post
-published: false
+published: true
 permalink: article/trello-checklist-totals
 excerpt: Display the total 'Scrum for Trello' estimates within checklists
 comments: true
