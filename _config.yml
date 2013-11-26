@@ -11,7 +11,7 @@ owner:
   bio:            "Project Manager, Agile Coach, sometime Programmer and Technology fan."
   email:          mike@gir.pm
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/emkay
+  twitter:        emkay
   facebook:       
   github:         
   stackexchange:  
@@ -34,11 +34,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Dublin
