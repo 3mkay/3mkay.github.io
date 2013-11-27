@@ -11,14 +11,14 @@ This is understandable. Essentially, an external client wants three things:
  1. Fixed launch date
  1. Fixed features
 
-What they understand about agile is that you get the following:
+What they understand about agile is that they will get:
 
  1. Unknown price
  1. Unknown launch date
  1. Unknown features
 
-As you can imagine, that makes them nervous. Sometimes nervous enough to disregard any agile process without knowing the detail.
+As you can imagine, that makes them nervous. Sometimes nervous enough to disregard any agile process without asking if that is actually the case.
 
-An internal client (Sales, Development), on the other hand, wants
+An internal client (Sales, Development), on the other hand, want
 
 This phenomenon is by no means limited to non-technical clients
