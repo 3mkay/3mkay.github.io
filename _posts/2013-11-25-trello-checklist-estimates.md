@@ -5,6 +5,7 @@ published: true
 permalink: article/trello-checklist-totals
 excerpt: Display the total 'Scrum for Trello' estimates within checklists
 comments: true
+tags: trello estimation tools
 ---
 When performing [checkstimation](/thesaurus/checkstimation/) in Trello, you're less likely to split the card into manageable list items and spend time estimating when you know you've got to then add them all up by hand. One solution is to drag this to your bookmark bar, and give it a click once your lists are split and estimated:
 
