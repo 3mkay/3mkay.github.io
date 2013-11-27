@@ -5,6 +5,6 @@ published: true
 permalink: thesaurus/everyone-gone
 share: true
 comment: true
-tags: stand-up
+tags: stand-up thesaurus
 ---
 > The question asked by attendees to a stand-up meeting who have either lost the will to be there or whose minds wandered whilst others were talking
