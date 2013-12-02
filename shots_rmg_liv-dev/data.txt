@@ -9,3 +9,5 @@ shots_rmg_liv-dev/queens-house/1024_phantomjs_data.txt
 1.24821e+06
 shots_rmg_liv-dev/royal-observatory/1024_phantomjs_data.txt
 1.43367e+06
+shots_rmg_liv-dev/visit/1024_phantomjs_data.txt
+1.25754e+06
