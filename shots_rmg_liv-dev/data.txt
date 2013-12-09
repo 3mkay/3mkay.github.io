@@ -1,15 +1,13 @@
 
 shots_rmg_liv-dev/cutty-sark/1024_phantomjs_data.txt
-1.43987e+06
+1.12148e+06
 shots_rmg_liv-dev/home/1024_phantomjs_data.txt
 630386
 shots_rmg_liv-dev/maritime-museum/1024_phantomjs_data.txt
-1.15040e+06
+1.13626e+06
 shots_rmg_liv-dev/queens-house/1024_phantomjs_data.txt
-877299
+1.15167e+06
 shots_rmg_liv-dev/royal-observatory/1024_phantomjs_data.txt
-1.22336e+06
-shots_rmg_liv-dev/space-talk/1024_phantomjs_data.txt
-498371
+1.18924e+06
 shots_rmg_liv-dev/visit/1024_phantomjs_data.txt
-2.24275e+06
+1.32917e+06
