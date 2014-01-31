@@ -14,7 +14,8 @@ In my experience, having design as an up-front, once-only task often causes wate
 
 Fire-and-forget design also puts too much emphasis on the design skills of the developers. There are not many projects where I can remember a developer not having to implement changes and reinterpret designs as requirements morph, wither and bubble to the surface of the backlog. Some developers may and do relish this opportunity to knock designs about and test their 'creative' sides although many other do not... Often, they are not designers for a very good reason! 
 
-When was the last time you saw a website which was flat and lifeless, in an interactive sense, without *any* CSS or JavaScript effects? I would like to bet that it wasn't for quite some time. 
+When was the last time you saw a website which was flat and lifeless, in an interactive sense, without *any* moving elements, CSS or JavaScript effects?  Probably not since the mid-90's when animated gif's became the reason to publish a website before it was ready. 
+
 This quite nicely illustrates another limitation of 'flat' designs; they are a snapshot of a website at that particular time with a mouse/finger/pen in a specific position performing a specific action. When in reality, the developer wants to know how the design 'works' for a user; what happens when:
 - ...they hover their mouse over this element?
 - ...the slider gets to the end of its cycle?
