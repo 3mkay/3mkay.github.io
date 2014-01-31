@@ -8,18 +8,16 @@ excerpt: In an agile world, one of the most difficult things to get 'agile' is t
   outside of the traditional developer roles.
 ---
 ## Design is dead!
-In an agile world, one of the most difficult things to turn 'agile' is the design process, there seems to be a general fear of agile encroaching into domains outside of traditional developer roles.
+In my experience, having design as an up-front, once-only task causes waterfall-like symptoms; re-work, change requests, [Specification jousting](/thesaurus/specification-jousting) and the worst knock-on effect, like a spy in the ranks, an erosion in confidence of the process being used. 
 
-In my experience, having design as an up-front, once-only task often causes waterfall-like symptoms; re-work, change requests, [Specification jousting](/thesaurus/specification-jousting) and the knock-on effect, like a spy in the ranks, of eroding confidence of the process, from within it. 
+When was the last time you saw a website which was flat and lifeless, in an interactive sense, without *any* moving elements, CSS or JavaScript effects?  Probably not since the mid-90's when an animated gif became the reason to publish a website before it was ready. Now think of those 'flat' PhotoShop designs; they are a merely a snapshot of at a particular point in time displaying what a user will see as they perform a specific moment in their normal interaction with the website. When in reality, the developer wants to know how the design 'works' for a user; e.g. what happens when:
+- ...they hover their mouse over an element?
+- ...the slider gets to the end of its cycle?
+- ...how fast should the pretty CSS3 button animation be?
+-...etc. etc.
+Basically, far too much information is not communicated again, resulting in design guess-work being by someone who probably isn't a designer, I would liken it to teaching someone how to juggle by showing them photos of someone mid-juggle.
 
 Fire-and-forget design also puts too much emphasis on the design skills of the developers. There are not many projects where I can remember a developer not having to implement changes and reinterpret designs as requirements morph, wither and bubble to the surface of the backlog. Some developers may and do relish this opportunity to knock designs about and test their 'creative' sides although many other do not... Often, they are not designers for a very good reason! 
-
-When was the last time you saw a website which was flat and lifeless, in an interactive sense, without *any* moving elements, CSS or JavaScript effects?  Probably not since the mid-90's when animated gif's became the reason to publish a website before it was ready. 
-
-This quite nicely illustrates another limitation of 'flat' designs; they are a snapshot of a website at that particular time with a mouse/finger/pen in a specific position performing a specific action. When in reality, the developer wants to know how the design 'works' for a user; what happens when:
-- ...they hover their mouse over this element?
-- ...the slider gets to the end of its cycle?
-
 - Web design with PSDs or flat screens is no longer suitable for modern websites with immersive experiences
 - Too much information is not communicated and far too much design guess-work is demanded of the developers
 - Analogy: Like trying to teach someone to dance from photos of a resting dancer.
