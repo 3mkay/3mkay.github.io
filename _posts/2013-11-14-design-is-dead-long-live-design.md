@@ -10,11 +10,9 @@ excerpt: In an agile world, one of the most difficult things to get 'agile' is t
 ## Design is dead!
 In an agile world, one of the most difficult things to turn 'agile' is the design process, there seems to be a general fear of agile encroaching into domains outside of traditional developer roles.
 
-In my experience, having design as an up-front, once-only task often causes waterfall-like symptoms; re-work, change requests, [Specification jousting](/thesaurus/specification-jousting) and the knock-on effect, like a spy in the ranks, of eroding confidence of the process from within. 
+In my experience, having design as an up-front, once-only task often causes waterfall-like symptoms; re-work, change requests, [Specification jousting](/thesaurus/specification-jousting) and the knock-on effect, like a spy in the ranks, of eroding confidence of the process, from within it. 
 
-It also puts too much emphasis on the design skills of the developers when they have to implement changes and reinterpret design themes as the backlog of requirements morph, wither and bubble to the surface. Although some developers will relish the opportunity to knock designs about, many others are not designers for a very good reason! 
-
-
+Fire-and-forget design also puts too much emphasis on the design skills of the developers. There are not many projects where I can remember a developer not having to implement changes and reinterpret designs as requirements morph, wither and bubble to the surface of the backlog. Some developers may and do relish this opportunity to knock designs about and test their 'creative' sides although many other do not... Often, they are not designers for a very good reason! 
 
 - Web design with PSDs or flat screens is no longer suitable for modern websites with immersive experiences
 - Too much information is not communicated and far too much design guess-work is demanded of the developers
