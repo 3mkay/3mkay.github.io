@@ -32,5 +32,5 @@ Fire-and-forget design also puts too much emphasis on the design skills of the d
 - Don't just involve the designer at the start of the process, they need to be there throughout
 - Requirements, thoughts and designs should all change at the same rate and include design input
 - Use Style Tiles to get the initial essence of the site across
-- Wireframes are essential to flesh-out ideas
+- Wire-frames are essential to flesh-out ideas
 - Design during each sprint of work, starting inside out.
