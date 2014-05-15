@@ -5,4 +5,4 @@ published: true
 permalink: presenting
 excerpt: See my current presentation
 ---
-[Watch along with my presenation](http://slides.com/emkay/drupal-project-lifecycle/live)
+[Watch along with my Drupal Project Lifecycle presentation](http://slides.com/emkay/drupal-project-lifecycle/live)
