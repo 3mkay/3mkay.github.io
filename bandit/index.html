@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Bandit Demo</title>
+
+		<style>
+			#container {
+				position: relative;
+				overflow: hidden;
+				border-top: 0px solid #999;
+				border-bottom: 0px solid #999;
+				margin: 20px 0 0 0;
+			}
+
+			ul {
+				position: relative;
+				float: left;
+				list-style: none;
+				padding: 0;
+				margin: 0;	
+				width: 50%;
+				font-size: 50px;
+				height: 220px;
+			}
+			ul li {
+				margin: 0 20px;
+				line-height: 65px;
+			}
+
+			#first li {
+				border-right: 0px solid #ccc;
+			}
+			#second {
+				float: left;
+			}
+
+			button {
+				display: block;
+				font-size: 21px;
+				margin: 20px auto 0 auto;
+				float: left;
+				margin-right: 20px;
+			}
+
+		</style>
+	</head>
+	<body>
+		<h1>First person to speak at scrum is...</h1>
+
+		<div id="container">
+			<ul id="first">
+				<li><img src="alan.jpg"></li>
+				<li><img src="gavin.jpg"></li>
+				<li><img src="lisa.jpg"></li>
+				<li><img src="mark.jpg"></li>
+				<li><img src="tommy.jpg"></li>
+				<li><img src="andrew.jpg"></li>
+				<li><img src="stella.jpg"></li>
+				<li><img src="anthony.jpg"></li>
+				<li><img src="mike.jpg"></li>
+                <li><img src="sudev.jpg"></li>
+			</ul>
+
+		</div>
+		<div id="buttons">
+			<button id="start">Spin!</button>
+			<button id="stop">Stop</button>
+		</div>
+	</body>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script src="jquery.bandit.js"></script>
+<script>
+$(function() {
+	$('ul').bandit({
+		speed: [20, 40],
+		delay: 0,
+		autoStop: [1500, 2000],
+		spinButton: '#start',
+		stopButton: '#stop',
+		spinOnLoad: true
+	});
+});
+</script>
+</html>
+
