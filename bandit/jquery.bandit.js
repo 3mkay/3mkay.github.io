@@ -77,6 +77,7 @@
 
 			function startSpin() {
 				$spinButton.attr('disabled', 'disabled');
+				lockUpdate();
 				
 				speed = settings.accel;
 
@@ -145,6 +146,7 @@
 							settings.done($this.children().first().html());
 							$spinButton.removeAttr('disabled');
 							$stopButton.removeAttr('disabled');
+							unlockUpdate();
 						}
 					},
 					easing: 'linear',
