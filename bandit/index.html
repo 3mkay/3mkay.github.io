@@ -72,7 +72,7 @@
 			<label><input type="checkbox" class="people" value="stella.jpg" checked>Stella</label>
 			<label><input type="checkbox" class="people" value="anthony.jpg" checked>Anthony</label>
 			<label><input type="checkbox" class="people" value="mike.jpg" checked>Mike</label>
-			<button id="btn_updateList">Update wheel</button>
+			<button id="btn_updateList" disabled>Update wheel</button>
 		</div>
 
 		<div id="container">
@@ -99,6 +99,16 @@
 			// console.log(index + ": " + $(this).val());
 			if($(this).is(":checked")) { $('#first').append('<li><img src="' + $(this).val() + '"></li>'); }
 		});
+	}
+
+	function lockUpdate() {
+		console.log("Locking button");
+		$('#btn_updateList').attr('disabled', 'disabled');
+	}
+
+	function unlockUpdate() {
+		console.log("Unlocking button");
+		$('#btn_updateList').removeAttr('disabled');
 	}
 
 $('#btn_updateList').click(function(){
