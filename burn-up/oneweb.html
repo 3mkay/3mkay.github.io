@@ -86,11 +86,16 @@ function drawVisualization() {
         ['09/12/2015',  null, null],
         ['10/12/2015',  null, null],
         ['11/12/2015',  null, null],
-        ['14/12/2015',  67.75, 286]
+        ['14/12/2015',  null, 286]
     ]);
 
     var options = {
         title : 'OneWeb Burn-up: 2015-10-23',
+        animation: {
+            duration: 1000,
+            easing: 'out',
+            "startup": true
+        },
         vAxis: {title: 'Hours'},
         hAxis: {title: ''},
         seriesType: 'line',
@@ -99,6 +104,8 @@ function drawVisualization() {
         series: {
             1: { lineDashStyle: [4, 4]}
         },
+
+        explorer: {},
 
     };
 
