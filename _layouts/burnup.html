@@ -24,10 +24,13 @@ google.setOnLoadCallback(drawVisualization);
 function drawVisualization() {
     // Some raw data (not necessarily accurate)
     var data = google.visualization.arrayToDataTable([
-        ['Date', 'Total', 'Target'],
-        {% for day in site.data.burnup.oneweb %}
-['{{day.date}}', {{day.running}}, {% if forloop.first %}0{% elsif forloop.last %}{{page.target}}{% else %}null{% endif %}],
-        {% endfor %}
+        [
+            {label: 'Date', type: 'string'},
+            {type: 'string', role: 'tooltip'},
+            {label: 'Total', type: 'number', role: 'data'},
+            {label: 'Target', type: 'number', role: 'data'}
+        ],
+        {% for day in site.data.burnup.oneweb %}['{{day.date}}', '{{day.effort}}', {{day.running}}, {% if forloop.first %}0{% elsif forloop.last %}{{page.target}}{% else %}null{% endif %}],{% endfor %}
     ]);
 
     var options = {
