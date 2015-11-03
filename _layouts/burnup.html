@@ -5,9 +5,7 @@
     <title>{{ page.title }} - {{ page.date }}</title>
 
     <script type='text/javascript' src='/js/lib/dummy.js'></script>
-
     <link rel="stylesheet" type="text/css" href="/css/result-light.css">
-
     <style type='text/css'>
 
     </style>
@@ -26,11 +24,13 @@ function drawVisualization() {
     var data = google.visualization.arrayToDataTable([
         [
             {label: 'Date', type: 'string'},
-            {type: 'string', role: 'tooltip'},
             {label: 'Total', type: 'number', role: 'data'},
+            {type: 'string', role: 'tooltip', 'p': {'html': true}},
             {label: 'Target', type: 'number', role: 'data'}
         ],
-        {% for day in site.data.burnup.oneweb %}['{{day.date}}', '{{day.effort}}', {{day.running}}, {% if forloop.first %}0{% elsif forloop.last %}{{page.target}}{% else %}null{% endif %}],{% endfor %}
+        {% for burnup_hash in site.data.burnup %}{% if burnup_hash[0] == page.datafile %}
+          {% for day in burnup_hash[1] %}['{{day.date}}', {{day.running}}, '{{day.date}}: {{day.effort}} hours<br>Total: {{day.running}}', {% if forloop.first %}0{% elsif forloop.last %}{{page.target}}{% else %}null{% endif %}],{% endfor %}
+    {% endif %}{% endfor %}
     ]);
 
     var options = {
@@ -50,6 +50,7 @@ function drawVisualization() {
         },
 
         explorer: {},
+        tooltip: {isHtml: true},
 
     };
 
